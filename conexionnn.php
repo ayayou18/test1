@@ -1,8 +1,8 @@
    <?php
-   $host = "your_host"; // Reemplaza con tu host de Railway
-   $usuario = "your_user"; // Reemplaza con tu usuario de Railway
-   $contrasena = "your_password"; // Reemplaza con tu contraseña de Railway
-   $basededatos = "your_database"; // Reemplaza con el nombre de tu base de datos de Railway
+   $host = "mysql-shaib18.alwaysdata.net"; // Reemplaza con tu host de Railway
+   $usuario = "shaib18"; // Reemplaza con tu usuario de Railway
+   $contrasena = "Amel-1126"; // Reemplaza con tu contraseña de Railway
+   $basededatos = "shaib18_testdb"; // Reemplaza con el nombre de tu base de datos de Railway
    $puerto = 3306; // Puerto por defecto para MySQL
 
    // Crear conexión
